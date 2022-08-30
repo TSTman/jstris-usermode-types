@@ -1,0 +1,11 @@
+{
+  "name": "jstris-usermode-types",
+  "version": "0.4.0",
+  "description": "Types used in Jstris usermodes",
+  "keywords": [
+    "jstris",
+    "usermode"
+  ],
+  "author": "TSTman <tstman@protonmail.com> (https://github.com/TSTman)",
+  "license": "MIT"
+}
